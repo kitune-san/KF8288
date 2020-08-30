@@ -1,4 +1,4 @@
-# KF8288 - 8253-like bus controller written in SystemVerilog
+# KF8288 - 8288-like bus controller written in SystemVerilog
 
 ## 概要
 SystemVerilogで書いた8288のようなものです。
